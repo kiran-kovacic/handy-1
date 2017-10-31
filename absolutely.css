@@ -89,7 +89,6 @@ main {
 }
 
 #toolbox {
-	position: relative;
 	bottom: 45px;
 	right: 175px;
 	position: relative;
@@ -121,7 +120,7 @@ li:hover {
 
 a {
 	text-decoration: none;
-	color: gray;
+	color: grey;
 }
 
 a:hover {
